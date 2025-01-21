@@ -7,3 +7,5 @@ I can use simple text formating to make **bold** or *italicized* text!
 ## And now a little test
 Because that's what's up. Or is it?
 
+## Now i'm doing ANOTHER test
+when will it end?
